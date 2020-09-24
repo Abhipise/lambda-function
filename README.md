@@ -1,5 +1,5 @@
 # lambda-function
-Created a lambda function to convert mp4 into specifc resolution.
+Created a lambda function to convert mp4 into specifc resolution using ffmpeg.
 
 You required s3 bucket with a video in it.
 (I had mov.bbbb.mp4 file in s3 bucket with name as testbucket4848)
